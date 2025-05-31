@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Emmanuel Alves</h1>
-<h3 align="center">CComputer Scientist. Work as a test analyst professionally, from Brasil</h3>
+<h3 align="center">Computer Scientist. Work as a test analyst professionally, from Brasil</h3>
 
 <p align="left">
 </p>
 
-<h3 align="left">Programming connections I have experience with:</h3>
+<h4 align="center">Programming connections I have experience with:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h3 align="left">Skills and Experience for testing:</h3>
+<h4 align="center">Skills and Experience for testing:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
