@@ -24,5 +24,5 @@
   
 <h3 align="left">Connect with me:</h3>
 <div style="text-align: center;">
-  <a href="alvesmendes860@gmail.com">E-mail</a>
+  <a href="mailto:alvesmendes860@gmail.com">E-mail</a>
 </div>
